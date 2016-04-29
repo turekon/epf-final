@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nUoZIQ3LEeaeSadew2r9uQ" guid="_nUoZIQ3LEeaeSadew2r9uQ"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_nUeoIA3LEeaeSadew2r9uQ" name="EMAHoldings-Actual" guid="_nUeoIA3LEeaeSadew2r9uQ" briefDescription="Proceso actual de desarrollo de software " authors="Andrés Mauricio Heredia Guerrero / Pablo Anibal Bejarano de la Hoz">
+    <methodElementProperty xmi:id="_nUoZIw3LEeaeSadew2r9uQ" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoIQ3LEeaeSadew2r9uQ" name="Content" guid="_nUeoIQ3LEeaeSadew2r9uQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoIg3LEeaeSadew2r9uQ" name="Categories" guid="_nUeoIg3LEeaeSadew2r9uQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoIw3LEeaeSadew2r9uQ" name="Domains" guid="_nUeoIw3LEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoJA3LEeaeSadew2r9uQ" name="Disciplines" guid="_nUeoJA3LEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoJQ3LEeaeSadew2r9uQ" name="RoleSets" guid="_nUeoJQ3LEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoJg3LEeaeSadew2r9uQ" name="WP Types" guid="_nUeoJg3LEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoJw3LEeaeSadew2r9uQ" name="Tools" guid="_nUeoJw3LEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoKA3LEeaeSadew2r9uQ" name="StandardCategories" guid="_nUeoKA3LEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoKQ3LEeaeSadew2r9uQ" name="CustomCategories" guid="_nUeoKQ3LEeaeSadew2r9uQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoKg3LEeaeSadew2r9uQ" name="Hidden" guid="_nUeoKg3LEeaeSadew2r9uQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nUeoKw3LEeaeSadew2r9uQ" name="Custom Categories" guid="_nUeoKw3LEeaeSadew2r9uQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoLA3LEeaeSadew2r9uQ" name="CoreContent" guid="_nUeoLA3LEeaeSadew2r9uQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_3H0lEA3LEeaeSadew2r9uQ" name="desarrollo_de_software_cobol" guid="_3H0lEA3LEeaeSadew2r9uQ" presentationName="Desarrollo de software COBOL" briefDescription="Se describe el proceso de desarrollo de software COBOL.">
+          <methodElementProperty xmi:id="_3H0lEQ3LEeaeSadew2r9uQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_AuC4cA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_CIMiQA3MEeaeSadew2r9uQ" name="gerente_de_sistemas" guid="_CIMiQA3MEeaeSadew2r9uQ" presentationName="Gerente de sistemas">
+            <methodElementProperty xmi:id="_ErmBMA3OEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DfqrgA3MEeaeSadew2r9uQ" name="director_de_desarrollo" guid="_DfqrgA3MEeaeSadew2r9uQ" presentationName="Director de Desarrollo">
+            <methodElementProperty xmi:id="_GqK4oA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HGoyMA3MEeaeSadew2r9uQ" name="ingeniero_de_desarrollo" guid="_HGoyMA3MEeaeSadew2r9uQ" presentationName="Ingeniero de Desarrollo">
+            <methodElementProperty xmi:id="_IKSnkA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Imv6EA3MEeaeSadew2r9uQ" name="ingeniero_de_soporte" guid="_Imv6EA3MEeaeSadew2r9uQ" presentationName="Ingeniero de Soporte">
+            <methodElementProperty xmi:id="_KC_OkA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_KaOp4A3MEeaeSadew2r9uQ" name="director_de_infraestructura" guid="_KaOp4A3MEeaeSadew2r9uQ" presentationName="Director de Infraestructura">
+            <methodElementProperty xmi:id="_MgWB0A3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_M_L58A3MEeaeSadew2r9uQ" name="ingeniero_de_redes" guid="_M_L58A3MEeaeSadew2r9uQ" presentationName="Ingeniero de Redes">
+            <methodElementProperty xmi:id="_PEjrAA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLQ3LEeaeSadew2r9uQ" name="CapabilityPatterns" guid="_nUeoLQ3LEeaeSadew2r9uQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLg3LEeaeSadew2r9uQ" name="DeliveryProcesses" guid="_nUeoLg3LEeaeSadew2r9uQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLw3LEeaeSadew2r9uQ" name="ProcessContributions" guid="_nUeoLw3LEeaeSadew2r9uQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
