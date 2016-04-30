@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UkVnpFcdvs0LlabMKFGNlA" name=",_9h0qAA79Eea9zeTC7sP_Fg" guid="-UkVnpFcdvs0LlabMKFGNlA">
+  <sections xmi:id="_NLls0A8BEea9zeTC7sP_Fg" name="Elaborar documento de especificació de requisito de desarrollo" guid="_NLls0A8BEea9zeTC7sP_Fg"/>
+  <sections xmi:id="_KDBZYA8BEea9zeTC7sP_Fg" name="Crear ticket en HelpPeople" guid="_KDBZYA8BEea9zeTC7sP_Fg"/>
+  <sections xmi:id="_QvJTIA8BEea9zeTC7sP_Fg" name="Adjuntar documento de especificación al ticket de HelpPeople" guid="_QvJTIA8BEea9zeTC7sP_Fg"/>
+  <purpose>&lt;p>&#xD;
+    Formaliza la solicitud de desarrollo por parte de un cliente al área de desarrollo de software de la compañía por medio&#xD;
+    de HelpPeople y adjuntando el documento con la especificación de la necesidad.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

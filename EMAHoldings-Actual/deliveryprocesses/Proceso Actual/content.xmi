@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-puu9X_jBaHfw2LOj02slfA" name="Proceso Actual,_ycqlYQ77Eea9zeTC7sP_Fg" guid="-puu9X_jBaHfw2LOj02slfA"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-e6yym9RyJFyNPShmsWqdbg" name="Ingenieria de Requisitos,_2mW-oQ77Eea9zeTC7sP_Fg" guid="-e6yym9RyJFyNPShmsWqdbg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-P4RBXJXoXPiu8R3PcYmodA" name="documento_especificacion_requisito,_rtBWMw7-Eea9zeTC7sP_Fg" guid="-P4RBXJXoXPiu8R3PcYmodA">
+    <refinedDescription>El documento contiene información relevante para la solicitud de desarrollo, como que necesita, como lo necesita, cual es&#xD;
+el proceso a automatizar o desarrollar, en que afecta este cambio a otros módulos u áreas de la empresa y las&#xD;
+autorizaciones de la gerencia a la que pertenece.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PuOacGdYw-9jMnlVYk6xVQ" name=",_kj8iEA77Eea9zeTC7sP_Fg" guid="-PuOacGdYw-9jMnlVYk6xVQ">
+  <sections xmi:id="_t1y5MA8BEea9zeTC7sP_Fg" name="Se identifica el usuario que realiza la solicitud de desarrollo según el ticket de HelpPeople" guid="_t1y5MA8BEea9zeTC7sP_Fg"/>
+  <sections xmi:id="_yYYTkA8BEea9zeTC7sP_Fg" name="Se agenda reunión presencial o virtual con el usuario" guid="_yYYTkA8BEea9zeTC7sP_Fg"/>
+  <sections xmi:id="_03rAgA8BEea9zeTC7sP_Fg" name="Se realizan preguntas que permitan refinar el requisito buscando la mayor claridad posible en el mismo." guid="_03rAgA8BEea9zeTC7sP_Fg"/>
+  <purpose>&lt;p>&#xD;
+    Obtener información directamente del usuario que solicita el desarrollo con el fin de clarificar la necesidad y refinar&#xD;
+    el requisito a analizar y desarrollar.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

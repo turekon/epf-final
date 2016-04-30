@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-M7E8e_M83OqjMFIPSKPoDw" name=",_sxz7YA77Eea9zeTC7sP_Fg" guid="-M7E8e_M83OqjMFIPSKPoDw" changeDate="2016-04-30T13:46:20.559-0500">
+  <purpose>Validar con los prototipos de pantalla y los casos de uso, que el requisito está completo y cubre las necesidades que el&#xD;
+usuario expresa.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

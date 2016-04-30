@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qE-lenLehJbNhiTyfefgiw" name="usuariocliente,_SGKL0A5xEeaeSadew2r9uQ" guid="-qE-lenLehJbNhiTyfefgiw">
+  <mainDescription>Usuario de las compañias que compran el servicio de outsorcing de servicios de tecnología e infraestructura.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

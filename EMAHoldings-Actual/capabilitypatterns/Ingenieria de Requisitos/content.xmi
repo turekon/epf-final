@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MBVrhnzJ3jjPoWMPuJw20Q" name="Ingenieria de Requisitos,_2mW-oQ77Eea9zeTC7sP_Fg" guid="-MBVrhnzJ3jjPoWMPuJw20Q">
+  <purpose>&lt;p>&#xD;
+    Proceso en el marco del desarrollo de software en el que se elaboran los requisitos y se valida su completitud, previo&#xD;
+    a iniciar cualquier otro proceso de diseño o codificación de los mismos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ProcessDescription>

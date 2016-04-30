@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Abc6B3ukilGWDsQX-qCE8Q" name="new_artifact,_DYvaEA7-Eea9zeTC7sP_Fg" guid="-Abc6B3ukilGWDsQX-qCE8Q" changeDate="2016-04-30T13:06:30.205-0500">
+  <purpose>Ticket en la herramienta de gestión de gestión de servicios que permite al usuario expresar la necesidad de un nuevo&#xD;
+desarrollo o modificación de uno existente para ajustarse a las necesidades del negocio.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZPJMwEgJPUVHD0Ehyliw9Q" name="new_artifact,_U8iA8A7-Eea9zeTC7sP_Fg" guid="-ZPJMwEgJPUVHD0Ehyliw9Q" changeDate="2016-04-30T13:07:58.542-0500">
+  <mainDescription>El documento contiene información relevante para la solicitud de desarrollo, como que necesita, como lo necesita, cual es&#xD;
+el proceso a automatizar o desarrollar, en que afecta este cambio a otros módulos u áreas de la empresa y las&#xD;
+autorizaciones de la gerencia a la que pertenece.</mainDescription>
+  <purpose>Documento de elaboracion y formato diseñado por la compañía que contiene la especificación de la necesidad del usuario a un&#xD;
+alto nivel.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

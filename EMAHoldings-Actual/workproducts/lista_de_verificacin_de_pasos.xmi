@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Adb4dm6W6NOErynh6gzMpQ" name="new_artifact,_YfnJUA8CEea9zeTC7sP_Fg" guid="-Adb4dm6W6NOErynh6gzMpQ">
+  <purpose>Lista de pasos a validar para considerar un requisito de software desarrollado a completitud</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

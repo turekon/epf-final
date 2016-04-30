@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FzfwOPI1gb3egSO1Sch-bg" name=",_C7-QcA78Eea9zeTC7sP_Fg" guid="-FzfwOPI1gb3egSO1Sch-bg" changeDate="2016-04-30T13:40:33.898-0500">
+  <purpose>Elaborar un guión del paso a paso a seguir en el proceso a desarrollar para cumplir con la necesidad expresada por el&#xD;
+cliente en el documento de especificación de requisitos</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uED2n4YmffLa_UhsVV9owA" name=",_rL4fYA77Eea9zeTC7sP_Fg" guid="-uED2n4YmffLa_UhsVV9owA">
+  <purpose>&lt;p>&#xD;
+    Refinar el documento de especificación de requisito de software con base en la información recopilada con el usuario en&#xD;
+    la entrevista, elaborando un nuevo documento que contenga detalles técnicos de la necesidad a implementar.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

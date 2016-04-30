@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cnvrVpDnwkDWqPVZR7hVpg" name=",_m1rUIA77Eea9zeTC7sP_Fg" guid="-cnvrVpDnwkDWqPVZR7hVpg" changeDate="2016-04-30T13:35:43.434-0500">
+  <purpose>Diseñar listas de verificación y validación de cumplimiento de todos los pasos requeridos en el proceos de desarrollo de&#xD;
+software</purpose>
+</org.eclipse.epf.uma:TaskDescription>

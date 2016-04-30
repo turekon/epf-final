@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j9GXSbxsVA5PwkrgD9zjAQ" name=",_8CCDgA8DEea9zeTC7sP_Fg" guid="-j9GXSbxsVA5PwkrgD9zjAQ">
+  <purpose>&lt;p>&#xD;
+    Es una notificación vía correo electrónico que permite validar que el requisito está completo y fue entendido a&#xD;
+    cabalidad por el área de desarrollo, previo al proceso de diseño y codificación.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YUrCVWb2GyfsGySN-oLCQw" name="ingeniero_de_desarrollo,_HGoyMA3MEeaeSadew2r9uQ" guid="-YUrCVWb2GyfsGySN-oLCQw">
+  <mainDescription>Ingeniero de sistemas que tiene multiples roles en el proceso de desarrollo de software, entre ellos, requisitos,&#xD;
+programación, soporte y mantenimiento, y capacitación a usuarios internos y externos.</mainDescription>
+  <skills>&lt;p>&#xD;
+    - Analisis y diseño de soluciones informáticas&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - competencias técnicas en codificación y construcción de soluciones informáticas&#xD;
+&lt;/p></skills>
+</org.eclipse.epf.uma:RoleDescription>
