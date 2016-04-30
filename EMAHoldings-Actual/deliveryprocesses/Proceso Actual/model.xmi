@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_2F7rMA6EEeaeSadew2r9uQ" guid="_2F7rMA6EEeaeSadew2r9uQ">
+    <resourceDescriptors xmi:id="_2F7rMQ6EEeaeSadew2r9uQ" id="-qBM_oljhN9nSr9p3I6sI0w" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_2CzesA6EEeaeSadew2r9uQ" name="Proceso Actual" guid="_2CzesA6EEeaeSadew2r9uQ">
+    <methodElementProperty xmi:id="_2DGZoA6EEeaeSadew2r9uQ" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_2CzesQ6EEeaeSadew2r9uQ" name="Proceso Actual" guid="_2CzesQ6EEeaeSadew2r9uQ" presentationName="Proceso Actual">
+      <presentation xmi:id="-qBM_oljhN9nSr9p3I6sI0w" href="uma://-qBM_oljhN9nSr9p3I6sI0w#-qBM_oljhN9nSr9p3I6sI0w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

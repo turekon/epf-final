@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nUoZIQ3LEeaeSadew2r9uQ" guid="_nUoZIQ3LEeaeSadew2r9uQ"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nUoZIQ3LEeaeSadew2r9uQ" guid="_nUoZIQ3LEeaeSadew2r9uQ">
+    <subManagers xmi:id="_IVEnEQ6DEeaeSadew2r9uQ" href="uma://_ITItYA6DEeaeSadew2r9uQ#_IVEnEQ6DEeaeSadew2r9uQ"/>
+    <subManagers xmi:id="_PEd3QQ6DEeaeSadew2r9uQ" href="uma://_PDHzcA6DEeaeSadew2r9uQ#_PEd3QQ6DEeaeSadew2r9uQ"/>
+    <subManagers xmi:id="_TzQhoA6DEeaeSadew2r9uQ" href="uma://_TxUn8A6DEeaeSadew2r9uQ#_TzQhoA6DEeaeSadew2r9uQ"/>
+    <subManagers xmi:id="_2F7rMA6EEeaeSadew2r9uQ" href="uma://_2CzesA6EEeaeSadew2r9uQ#_2F7rMA6EEeaeSadew2r9uQ"/>
+    <resourceDescriptors xmi:id="_ITvKUQ6DEeaeSadew2r9uQ" id="_ITItYA6DEeaeSadew2r9uQ" uri="capabilitypatterns/Inicio/model.xmi"/>
+    <resourceDescriptors xmi:id="_PDRkcQ6DEeaeSadew2r9uQ" id="_PDHzcA6DEeaeSadew2r9uQ" uri="capabilitypatterns/Desarrollo/model.xmi"/>
+    <resourceDescriptors xmi:id="_Tx6d0Q6DEeaeSadew2r9uQ" id="_TxUn8A6DEeaeSadew2r9uQ" uri="capabilitypatterns/pruebas/model.xmi"/>
+    <resourceDescriptors xmi:id="_2DjFkQ6EEeaeSadew2r9uQ" id="_2CzesA6EEeaeSadew2r9uQ" uri="deliveryprocesses/Proceso%20Actual/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_nUeoIA3LEeaeSadew2r9uQ" name="EMAHoldings-Actual" guid="_nUeoIA3LEeaeSadew2r9uQ" briefDescription="Proceso actual de desarrollo de software " authors="Andrés Mauricio Heredia Guerrero / Pablo Anibal Bejarano de la Hoz">
     <methodElementProperty xmi:id="_nUoZIw3LEeaeSadew2r9uQ" name="plugin_synFree" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoIQ3LEeaeSadew2r9uQ" name="Content" guid="_nUeoIQ3LEeaeSadew2r9uQ">
@@ -18,7 +27,7 @@
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nUeoLA3LEeaeSadew2r9uQ" name="CoreContent" guid="_nUeoLA3LEeaeSadew2r9uQ">
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_3H0lEA3LEeaeSadew2r9uQ" name="desarrollo_de_software_cobol" guid="_3H0lEA3LEeaeSadew2r9uQ" presentationName="Desarrollo de software COBOL" briefDescription="Se describe el proceso de desarrollo de software COBOL.">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_3H0lEA3LEeaeSadew2r9uQ" name="desarrollo_de_software" guid="_3H0lEA3LEeaeSadew2r9uQ" presentationName="Desarrollo de software COBOL" briefDescription="Se describe el proceso de desarrollo de software COBOL.">
           <methodElementProperty xmi:id="_3H0lEQ3LEeaeSadew2r9uQ" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_AuC4cA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_CIMiQA3MEeaeSadew2r9uQ" name="gerente_de_sistemas" guid="_CIMiQA3MEeaeSadew2r9uQ" presentationName="Gerente de sistemas">
@@ -27,7 +36,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DfqrgA3MEeaeSadew2r9uQ" name="director_de_desarrollo" guid="_DfqrgA3MEeaeSadew2r9uQ" presentationName="Director de Desarrollo">
             <methodElementProperty xmi:id="_GqK4oA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HGoyMA3MEeaeSadew2r9uQ" name="ingeniero_de_desarrollo" guid="_HGoyMA3MEeaeSadew2r9uQ" presentationName="Ingeniero de Desarrollo">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HGoyMA3MEeaeSadew2r9uQ" name="ingeniero_de_desarrollo" guid="_HGoyMA3MEeaeSadew2r9uQ" presentationName="Ingeniero de Desarrollo" briefDescription="Ingeniero de sistemas que tiene multiples roles en el proceso de desarrollo de software, entre ellos, requisitos, programación, soporte y mantenimiento, y capacitación a usuarios internos y externos.">
             <methodElementProperty xmi:id="_IKSnkA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Imv6EA3MEeaeSadew2r9uQ" name="ingeniero_de_soporte" guid="_Imv6EA3MEeaeSadew2r9uQ" presentationName="Ingeniero de Soporte">
@@ -39,11 +48,47 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_M_L58A3MEeaeSadew2r9uQ" name="ingeniero_de_redes" guid="_M_L58A3MEeaeSadew2r9uQ" presentationName="Ingeniero de Redes">
             <methodElementProperty xmi:id="_PEjrAA3MEeaeSadew2r9uQ" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_SGKL0A5xEeaeSadew2r9uQ" name="usuariocliente" guid="_SGKL0A5xEeaeSadew2r9uQ" presentationName="Usuario(Cliente)" briefDescription="Usuario de las compañias que compran el servicio de outsorcing de servicios de tecnología e infraestructura.">
+            <methodElementProperty xmi:id="_cM39IA5xEeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mW8noA51EeaeSadew2r9uQ" name="solicitud_desarrollo" guid="_mW8noA51EeaeSadew2r9uQ" presentationName="Solicitud desarrollo">
+            <methodElementProperty xmi:id="_vblCIA57EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_v4CUoA57EeaeSadew2r9uQ" name="asignar_desarrollador" guid="_v4CUoA57EeaeSadew2r9uQ" presentationName="Asignar desarrollador">
+            <methodElementProperty xmi:id="_yOi5AA57EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yrvyYA57EeaeSadew2r9uQ" name="analizar_solicitud_de_desarrollo" guid="_yrvyYA57EeaeSadew2r9uQ" presentationName="Analizar solicitud de desarrollo">
+            <methodElementProperty xmi:id="_1MFoMA57EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wVbl0A58EeaeSadew2r9uQ" name="disear_solucin_a_desarrollar" guid="_wVbl0A58EeaeSadew2r9uQ" presentationName="Diseñar solución a desarrollar">
+            <methodElementProperty xmi:id="_2ML90A58EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_33LgAA58EeaeSadew2r9uQ" name="codificar_requisito_solicitado" guid="_33LgAA58EeaeSadew2r9uQ" presentationName="Codificar requisito solicitado">
+            <methodElementProperty xmi:id="_75RccA58EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9Q9BEA58EeaeSadew2r9uQ" name="pruebas_de_desarrollador" guid="_9Q9BEA58EeaeSadew2r9uQ" presentationName="Pruebas de desarrollador">
+            <methodElementProperty xmi:id="__WLBIA58EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__vgHIA58EeaeSadew2r9uQ" name="pruebas_de_usuario" guid="__vgHIA58EeaeSadew2r9uQ" presentationName="Pruebas de usuario">
+            <methodElementProperty xmi:id="_AobTMA59EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BDih4A59EeaeSadew2r9uQ" name="Publicar en ambiente productivo" guid="_BDih4A59EeaeSadew2r9uQ" presentationName="Paso a producción">
+            <methodElementProperty xmi:id="_CqgfsA59EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DFyGcA59EeaeSadew2r9uQ" name="publicar_en_ambiente_de_pruebas" guid="_DFyGcA59EeaeSadew2r9uQ" presentationName="Publicar en ambiente de pruebas">
+            <methodElementProperty xmi:id="_E-CBgA59EeaeSadew2r9uQ" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLQ3LEeaeSadew2r9uQ" name="CapabilityPatterns" guid="_nUeoLQ3LEeaeSadew2r9uQ"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLQ3LEeaeSadew2r9uQ" name="CapabilityPatterns" guid="_nUeoLQ3LEeaeSadew2r9uQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_ITItYA6DEeaeSadew2r9uQ" href="uma://_ITItYA6DEeaeSadew2r9uQ#_ITItYA6DEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_PDHzcA6DEeaeSadew2r9uQ" href="uma://_PDHzcA6DEeaeSadew2r9uQ#_PDHzcA6DEeaeSadew2r9uQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_TxUn8A6DEeaeSadew2r9uQ" href="uma://_TxUn8A6DEeaeSadew2r9uQ#_TxUn8A6DEeaeSadew2r9uQ"/>
+      </childPackages>
     </methodPackages>
-    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLg3LEeaeSadew2r9uQ" name="DeliveryProcesses" guid="_nUeoLg3LEeaeSadew2r9uQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLg3LEeaeSadew2r9uQ" name="DeliveryProcesses" guid="_nUeoLg3LEeaeSadew2r9uQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_2CzesA6EEeaeSadew2r9uQ" href="uma://_2CzesA6EEeaeSadew2r9uQ#_2CzesA6EEeaeSadew2r9uQ"/>
+    </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nUeoLw3LEeaeSadew2r9uQ" name="ProcessContributions" guid="_nUeoLw3LEeaeSadew2r9uQ"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>
