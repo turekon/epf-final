@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-qBM_oljhN9nSr9p3I6sI0w" name="Proceso Actual,_2CzesQ6EEeaeSadew2r9uQ" guid="-qBM_oljhN9nSr9p3I6sI0w"/>
-  <org.eclipse.epf.uma:ProcessDescription xmi:id="-8DWjnBOXz3osmFZwkGsJ6Q" name="Inicio,_ITItYQ6DEeaeSadew2r9uQ" guid="-8DWjnBOXz3osmFZwkGsJ6Q"/>
-  <org.eclipse.epf.uma:ProcessDescription xmi:id="-2NpHKBYeryTZW_wCCiCa2Q" name="Desarrollo,_PDHzcQ6DEeaeSadew2r9uQ" guid="-2NpHKBYeryTZW_wCCiCa2Q"/>
-  <org.eclipse.epf.uma:ProcessDescription xmi:id="-8uJSEFdMZfvpUlFiedG1Rg" name="pruebas,_TxUn8Q6DEeaeSadew2r9uQ" guid="-8uJSEFdMZfvpUlFiedG1Rg"/>
-</xmi:XMI>
